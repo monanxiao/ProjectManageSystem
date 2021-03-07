@@ -19,9 +19,9 @@ return [
 	'bucket' => env('OSS_BUCKET',''), 
 	//AccessKeyId AccessKeySecret 获取地址:https://usercenter.console.aliyun.com/#/manage/ak
 	// 你的AccessKeyId 
-	'AccessKeyId' => env('OSS_AccessKeyId',''),//LTAI4GHqSp4SKdorxJpagSMc
+	'AccessKeyId' => env('OSS_AccessKeyId',''),
 	//你的AccessKeySecret
-	'AccessKeySecret' => env('OSS_AccessKeySecret',''),//cnvvn9mVeFbsyfMymB7rdVBck4tieh
+	'AccessKeySecret' => env('OSS_AccessKeySecret',''),
 
 	//公共云下OSS各地域查看地址：https://help.aliyun.com/document_detail/31837.htm
 	//外网公共云下OSS各地域
